@@ -1,89 +1,91 @@
 ![banner](https://th.bing.com/th/id/R.68d278a064f4fb1bd9afe5e627f71783?rik=WKeKIeXO%2fAHZ%2fw&riu=http%3a%2f%2fgsotgroup.vn%2fwp-content%2fuploads%2f2020%2f08%2fBigData-1024x682-1-1024x570-1.jpg&ehk=JAYCZqksg63DNt66Mn4iNrUGL0FW9Sa%2fVg3nl6UdKl4%3d&risl=&pid=ImgRaw&r=0)
 
-<h1 align="center">👋 Xin chào! Mình là  Đỉnh Phạm</h1>
-<h3 align="center">💻 Sinh viên Công nghệ thông tin | Big Data | Lập trình  Web Python</h3>
+<h1 align="center">👋 Xin chào! Mình là <strong>Đỉnh Phạm</strong></h1>
+
+<div align="center">
+  
+💻 <strong>Sinh viên Công nghệ thông tin | Big Data | Lập trình Web Python</strong>  
+✨ <em>Welcome to my GitHub Profile!</em>
+
+</div>
 
 ---
 
-### 👨‍🎓 Giới thiệu bản thân  
-🎓 Hiện tại mình là **sinh viên ngành Công nghệ thông tin – chuyên ngành Big Data** tại **Trường Đại học Gia Định (GDU)**.  
-🎓 Đồng thời, mình đã **tốt nghiệp ngành Kỹ thuật điện** tại **Trường Đại học Giao thông Vận tải TP.HCM (UTH)**.  
-💡 Với nền tảng vững chắc về **cơ sở dữ liệu** và **lập trình web bằng Python**, mình đam mê xây dựng các hệ thống **dữ liệu – web – tự động hóa** giúp nâng cao hiệu quả làm việc.  
-🚀 Mục tiêu của mình là trở thành **Full Stack Developer** có tư duy phân tích dữ liệu và thiết kế hệ thống thông minh.
+## 👨‍🎓 Giới thiệu bản thân  
+🎓 Sinh viên **Công nghệ thông tin – Big Data** tại **Trường Đại học Gia Định (GDU)**  
+🎓 Tốt nghiệp **Kỹ thuật điện** tại **Đại học Giao thông Vận tải TP.HCM (UTH)**  
+💡 Nền tảng mạnh về **Database**, **Python Web**, **Phân tích dữ liệu**  
+🚀 Mục tiêu: trở thành **Full Stack Developer + Data Engineer Hybrid**
 
 ---
 
-### ⚡ Mục tiêu phát triển
-- 🌐 Phát triển ứng dụng web với **Python (Flask / Django)**  
-- 💾 Quản lý & tối ưu **Cơ sở dữ liệu** (SQL Server, PostgreSQL, MongoDB, Oracle)  
-- 🧠 Ứng dụng **Big Data & phân tích dữ liệu** trong hệ thống thực tế  
-- ☁️ Kết nối API và xử lý dữ liệu phân tán  
-- 📊 Xây dựng **Dashboard & hệ thống báo cáo trực quan**
+## ⚡ Mục tiêu phát triển  
+- 🌐 Web Backend: **Python Flask / Django**  
+- 💾 Database: **SQL Server – PostgreSQL – MongoDB – Oracle**  
+- 📊 Big Data: **ETL – phân tích dữ liệu – trực quan hóa**  
+- ☁️ API – hệ thống phân tán  
+- 📈 Dashboard & báo cáo thông minh  
 
 ---
 
-### 🧰 Công nghệ sử dụng  
+## 🧰 Công nghệ sử dụng  
 
-<p align="center">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="40" height="40" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40" alt="Django" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-</p>
+<div align="center">
+
+<!-- Icon bay nhẹ -->
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,tailwind,mysql,postgres,mongodb,git&theme=light" />
+
+</div>
 
 ---
 
-### 💼 Dự án tiêu biểu  
+## 💼 Dự án tiêu biểu  
 
-#### ☕ Hệ thống Quản lý Quán Cà phê  
+### ☕ Hệ thống Quản lý Quán Cà phê  
+<p align="center"><img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/315493f7-6a4b-449a-bd1d-7854387e5cec" /></p>
+
 > **Công nghệ:** C#, WinForms, SQL Server  
-> Phần mềm quản lý bàn, gọi món, thanh toán và thống kê doanh thu.  
-> Có giao diện quản trị, hỗ trợ in hóa đơn và phân quyền người dùng.  
-🔗 *Link GitHub:* [github.com/yourgithub/coffee-shop-management](#)
+> ✔️ Quản lý bàn – gọi món – thanh toán  
+> ✔️ Phân quyền – in hóa đơn – thống kê doanh thu  
+🔗 *Link:* https://github.com/CHIDINHPC/He_Thong_QuanCofee_Min
 
 ---
 
-#### 📚 Phần mềm Quản lý Thư viện  
+### 📚 Phần mềm Quản lý Thư viện  
+<p align="center"><img width="575" height="318" alt="image" src="https://github.com/user-attachments/assets/c5fb0bf3-3e1d-4614-b327-d52fcea83247" /></p>
+
 > **Công nghệ:** C#, SQL Server  
-> Hệ thống quản lý độc giả, tài liệu, phiếu mượn – trả.  
-> Tích hợp tra cứu và thống kê mượn sách, giúp tự động hóa công tác quản lý.  
-🔗 *Link GitHub:* [github.com/yourgithub/library-system](#)
+> ✔️ Quản lý độc giả, tài liệu, mượn trả  
+> ✔️ Thống kê & tìm kiếm nâng cao  
+🔗 *Link:* https://github.com/CHIDINHPC/QLTV_23150495
 
 ---
 
-#### 🧩 Hệ thống Big Data Phân tán  
-> **Công nghệ:** Python, Hadoop, PostgreSQL, MongoDB, dblink  
-> Mô phỏng hệ thống quản lý đơn hàng phân tán cho chuỗi cửa hàng bán lẻ, đồng bộ dữ liệu giữa nhiều chi nhánh.  
-🔗 *Link GitHub:* [github.com/yourgithub/bigdata-demo](#)
+### 🧩 Ứng dụng Machine Learning dự báo sự cố thiết bị điện  
+> **Công nghệ:** Python, Hadoop, PostgreSQL, MongoDB  
+> ✔️ Mô phỏng hệ thống phân tán, đồng bộ dữ liệu nhiều chi nhánh  
+🔗 *Link:* *(đang cập nhật)*  
 
 ---
 
-### 🌐 Kết nối với mình  
+## 🌐 Kết nối với mình  
 
-<p align="center">
+<div align="center">
+
 <a href="https://www.facebook.com/CHIDINHPC" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-       width="36" height="36" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="mailto:chidinh11a1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="36" height="36" alt="Email" /></a>
-<a href="https://github.com/CHIDINHPC"target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-</p>
+
+<a href="mailto:chidinh11a1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/CHIDINHPC" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 📊 Thống kê GitHub  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" alt="Thống kê GitHub" />
-</p>
-
----
-
-💡 *“Học – Code – Sửa lỗi – Nâng cấp bản thân mỗi ngày.”*  
+💡 *“Học – Code – Sửa lỗi – Nâng cấp bản thân mỗi ngày.”*
