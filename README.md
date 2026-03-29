@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- Icon bay nhẹ -->
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,tailwind,mysql,postgres,mongodb,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,tailwind,mysql,postgres,mongodb,git&theme,=light" />
 
 </div>
 
@@ -62,11 +62,11 @@
 ---
 
 ### 🧩 Ứng dụng Machine Learning dự báo sự cố thiết bị điện  
-> **Công nghệ:** Python, Hadoop, PostgreSQL, MongoDB  
-> ✔️ Mô phỏng hệ thống phân tán, đồng bộ dữ liệu nhiều chi nhánh  
-🔗 *Link:* *(đang cập nhật)*  
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/7247a88c-4d54-4984-8644-c718689825a5" />
 
----
+> ✔️Công nghệ: Python, Streamlit, Scikit-learn, Plotly
+> ✔️ Dashboard giám sát điện realtime kết hợp AI dự đoán sự cố
+> 🔗 *Link: https://airport-mldcn.streamlit.app/
 
 ## 🌐 Kết nối với mình  
 
@@ -85,7 +85,5 @@
 </a>
 
 </div>
-
----
 
 💡 *“Học – Code – Sửa lỗi – Nâng cấp bản thân mỗi ngày.”*
